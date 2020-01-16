@@ -1,12 +1,5 @@
 
 Dogs - Krishan
 Airdale Terrier KH
-<<<<<<< HEAD
-
-=======
 Weiner Dog - EM
->>>>>>> 2f1b26d92ee071e55de8778858783de70425fd11
-
-
-
 Doberman TS
