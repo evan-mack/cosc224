@@ -9,3 +9,19 @@ Airdale Terrier KH
 Weiner Dog - EM
 Doberman TS
 huskey - ko
+
+evan-cat.txt
+Lion - EM
+Tiger - EM
+Liger - EM
+Panther KH
+SnowLeppard TS
+
+cats - ko
+  
+1. owl - KO
+2. bluejay - ko
+3. bat - ko
+4. is a bat a bird? - EM
+5. Robin TS
+6. DoDo KH
